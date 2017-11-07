@@ -255,7 +255,7 @@ header li a{
     color: black;
     padding-top: 0.5em;
 }
-@media screen and (min-width: 800px){
+@media screen and (min-width: 800px) and (min-height: 480px){
     header{
         top: 0;
         background: green;
