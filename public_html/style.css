@@ -342,4 +342,5 @@ header li a{
 a{
     text-decoration: underline;
     color: blue;
+    width: 100%;
 }
