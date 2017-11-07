@@ -339,3 +339,7 @@ header li a{
         height: 4.1em;
     }
 }
+a{
+    text-decoration: underline;
+    color: blue;
+}
